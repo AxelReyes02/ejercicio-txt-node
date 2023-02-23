@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "fs-extra": "^11.1.0"
+  },
+  "name": "ejercicio-txt-node",
+  "version": "1.0.0",
+  "description": "ejercicio de node npm request",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Luis Axel Reyes Espinoza",
+  "license": "ISC"
+}
